@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:muhamedalmkkawy@gmail.com"><img src="https://img.shields.io/badge/Email-muhamedalmkkawy@gmail.com-0b7a5e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="https://img.shields.io/badge/LinkedIn-muhamed--almkkawy-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/MuhamedAlMkkawy"><img src="https://img.shields.io/badge/GitHub-MuhamedAlMkkawy-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:muhamedalmkkawy@gmail.com"><img src="./btn-email.svg" alt="Email me" height="44"></a>
+  <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="./btn-linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://wa.me/966562316011"><img src="./btn-whatsapp.svg" alt="WhatsApp" height="44"></a>
+  <a href="https://github.com/MuhamedAlMkkawy"><img src="./btn-github.svg" alt="GitHub" height="44"></a>
 </p>
 
 <p align="center">
@@ -189,8 +190,10 @@ Click a project to open its details and links.
 ## Contact
 
 <p align="center">
-  <a href="mailto:muhamedalmkkawy@gmail.com"><img src="https://img.shields.io/badge/Email_me-0b7a5e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"></a>
-  <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+  <a href="mailto:muhamedalmkkawy@gmail.com"><img src="./btn-email.svg" alt="Email me" height="44"></a>
+  <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="./btn-linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://wa.me/966562316011"><img src="./btn-whatsapp.svg" alt="WhatsApp" height="44"></a>
+  <a href="https://github.com/MuhamedAlMkkawy"><img src="./btn-github.svg" alt="GitHub" height="44"></a>
 </p>
 
-<p align="center"><sub>Riyadh, Saudi Arabia</sub></p>
+<p align="center"><sub>muhamedalmkkawy@gmail.com &nbsp;·&nbsp; WhatsApp +966 56 231 6011 &nbsp;·&nbsp; Riyadh, Saudi Arabia</sub></p>
