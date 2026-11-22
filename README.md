@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Muhamed Al-Mkkawy — Fullstack Web Developer &amp; AI Application Development" width="100%">
+  <img src="./header.svg" alt="Muhamed Al-Mkkawy — Fullstack Web Developer &amp; AI Application Developer" width="100%">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ I have 4+ years of experience building scalable web apps and APIs with Node.js, 
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,sqlite,firebase,tailwind,bootstrap,figma,ps&perline=10" alt="tech icons" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,wordpress,jquery&perline=10" alt="tech icons" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vercel,wordpress,jquery&perline=10" alt="tech icons" />
 </p>
 
 <img src="./divider.svg" width="100%" alt="">
