@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Muhamed Al-Mkkawy — Fullstack Web Developer &amp; AI Specialist" width="100%">
+  <img src="./header.svg" alt="Muhamed Al-Mkkawy — Fullstack Web Developer &amp; AI Application Development" width="100%">
 </p>
 
 <p align="center">
