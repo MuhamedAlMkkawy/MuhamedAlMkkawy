@@ -26,9 +26,10 @@ I have 4+ years of experience building scalable web apps and APIs with Node.js, 
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><h3>4+</h3>years building production web apps</td>
-    <td align="center" width="33%"><h3>8</h3>featured projects, most with live demos</td>
-    <td align="center" width="33%"><h3>SaaS · ERP · Fintech</h3>business systems experience</td>
+    <td align="center" width="25%"><h3>4+</h3>years building production web apps</td>
+    <td align="center" width="25%"><h3>100+</h3>repositories, public and private</td>
+    <td align="center" width="25%"><h3>8</h3>featured projects below, most with live demos</td>
+    <td align="center" width="25%"><h3>SaaS · ERP · Fintech</h3>business systems experience</td>
   </tr>
 </table>
 
