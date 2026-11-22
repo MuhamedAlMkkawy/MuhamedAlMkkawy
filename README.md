@@ -6,15 +6,16 @@
   <a href="mailto:muhamedalmkkawy@gmail.com"><img src="./btn-email.svg" alt="Email me" height="44"></a>
   <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="./btn-linkedin.svg" alt="LinkedIn" height="44"></a>
   <a href="https://wa.me/966562316011"><img src="./btn-whatsapp.svg" alt="WhatsApp" height="44"></a>
+  <a href="https://github.com/MuhamedAlMkkawy"><img src="./btn-github.svg" alt="GitHub" height="44"></a>
 </p>
 
 <p align="center">
-  <a href="#about"><b>About</b></a> &nbsp;│&nbsp;
-  <a href="#tech-stack"><b>Tech stack</b></a> &nbsp;│&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;│&nbsp;
-  <a href="#experience"><b>Experience</b></a> &nbsp;│&nbsp;
-  <a href="#skills"><b>Skills</b></a> &nbsp;│&nbsp;
-  <a href="#contact"><b>Contact</b></a>
+  <a href="#about"><img src="./nav-about.svg" alt="About" height="38"></a>
+  <a href="#tech-stack"><img src="./nav-tech-stack.svg" alt="Tech stack" height="38"></a>
+  <a href="#projects"><img src="./nav-projects.svg" alt="Projects" height="38"></a>
+  <a href="#experience"><img src="./nav-experience.svg" alt="Experience" height="38"></a>
+  <a href="#skills"><img src="./nav-skills.svg" alt="Skills" height="38"></a>
+  <a href="#contact"><img src="./nav-contact.svg" alt="Contact" height="38"></a>
 </p>
 
 <img src="./divider.svg" width="100%" alt="">
@@ -40,7 +41,7 @@ I have 4+ years of experience building scalable web apps and APIs with Node.js, 
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql,sqlite,firebase,tailwind,bootstrap,figma,ps&perline=10" alt="tech icons" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,wordpress,jquery&perline=10" alt="tech icons" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,vercel,wordpress,jquery&perline=10" alt="tech icons" />
 </p>
 
 <img src="./divider.svg" width="100%" alt="">
@@ -192,6 +193,7 @@ Click a project to open its details and links.
   <a href="mailto:muhamedalmkkawy@gmail.com"><img src="./btn-email.svg" alt="Email me" height="44"></a>
   <a href="https://linkedin.com/in/muhamed-almkkawy"><img src="./btn-linkedin.svg" alt="LinkedIn" height="44"></a>
   <a href="https://wa.me/966562316011"><img src="./btn-whatsapp.svg" alt="WhatsApp" height="44"></a>
+  <a href="https://github.com/MuhamedAlMkkawy"><img src="./btn-github.svg" alt="GitHub" height="44"></a>
 </p>
 
 <p align="center"><sub>muhamedalmkkawy@gmail.com &nbsp;·&nbsp; WhatsApp +966 56 231 6011 &nbsp;·&nbsp; Riyadh, Saudi Arabia</sub></p>
