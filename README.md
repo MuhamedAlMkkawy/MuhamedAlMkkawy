@@ -169,7 +169,7 @@ Click a project to open its details and links.
 
 <table width="100%">
   <tr>
-    <td width="64" align="center">🎓</td>
+    <td align="center">🎓</td>
     <td><b>B.Sc. Communications and Electronics Engineering</b><br><sub>Faculty of Engineering, Mansoura University</sub></td>
     <td width="130" align="right"><sub><b>2019 – 2024</b></sub></td>
   </tr>
