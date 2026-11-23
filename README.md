@@ -24,7 +24,7 @@
 
 I have 4+ years of experience building scalable web apps and APIs with Node.js, NestJS, TypeScript, React/Next.js and Vue/Nuxt, backed by MongoDB. I’ve built multi-tenant SaaS apps and worked on ERP, accounting and fintech systems. I also build with AI tools, and I want to build AI-powered products like chatbots and virtual assistants.
 
-<table align="center">
+<table width="100%">
   <tr>
     <td align="center" width="25%"><h3>4+</h3>years building production web apps</td>
     <td align="center" width="25%"><h3>100+</h3>repositories, public and private</td>
@@ -193,18 +193,18 @@ Click a project to open its details and links.
 
 ## Skills
 
-| | |
-|---|---|
-| **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 / SASS |
-| **Back-end and APIs** | Node.js, NestJS, RESTful APIs and web services, API integration, Firebase |
-| **Databases** | MongoDB, MySQL, SQLite, TypeORM |
-| **Front-end** | React.js, Next.js, Vue.js, Nuxt.js |
-| **State management** | Redux, Zustand, Pinia, Vuex |
-| **UI and styling** | PrimeVue, Bootstrap, Tailwind CSS, Figma, Photoshop |
-| **Performance** | Core Web Vitals, SSR, code splitting, lazy loading, SEO, accessibility |
-| **Engineering** | OOP and SOLID, code reviews, debugging, testing, technical documentation, secure coding |
-| **SaaS and AI** | Multi-tenant SaaS, ERP, accounting and fintech systems, AI-assisted development |
-| **Tools** | Git and GitHub, CI/CD (GitHub Actions, Jenkins), Agile/Scrum, WordPress, jQuery |
+<table width="100%">
+  <tr><td width="200"><b>Languages</b></td><td>JavaScript (ES6+), TypeScript, HTML5, CSS3 / SASS</td></tr>
+  <tr><td width="200"><b>Back-end and APIs</b></td><td>Node.js, NestJS, RESTful APIs and web services, API integration, Firebase</td></tr>
+  <tr><td width="200"><b>Databases</b></td><td>MongoDB, MySQL, SQLite, TypeORM</td></tr>
+  <tr><td width="200"><b>Front-end</b></td><td>React.js, Next.js, Vue.js, Nuxt.js</td></tr>
+  <tr><td width="200"><b>State management</b></td><td>Redux, Zustand, Pinia, Vuex</td></tr>
+  <tr><td width="200"><b>UI and styling</b></td><td>PrimeVue, Bootstrap, Tailwind CSS, Figma, Photoshop</td></tr>
+  <tr><td width="200"><b>Performance</b></td><td>Core Web Vitals, SSR, code splitting, lazy loading, SEO, accessibility</td></tr>
+  <tr><td width="200"><b>Engineering</b></td><td>OOP and SOLID, code reviews, debugging, testing, technical documentation, secure coding</td></tr>
+  <tr><td width="200"><b>SaaS and AI</b></td><td>Multi-tenant SaaS, ERP, accounting and fintech systems, AI-assisted development</td></tr>
+  <tr><td width="200"><b>Tools</b></td><td>Git and GitHub, CI/CD (GitHub Actions, Jenkins), Agile/Scrum, WordPress, jQuery</td></tr>
+</table>
 
 <img src="./divider.svg" width="100%" alt="">
 
