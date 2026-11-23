@@ -167,27 +167,9 @@ Click a project to open its details and links.
 
 ## Education & Certificates
 
-<table width="100%">
-  <tr>
-    <td align="center">🎓</td>
-    <td><b>B.Sc. Communications and Electronics Engineering</b><br><sub>Faculty of Engineering, Mansoura University</sub></td>
-    <td width="130" align="right"><sub><b>2019 – 2024</b></sub></td>
-  </tr>
-</table>
+<img src="./education.svg" width="100%" alt="Education: B.Sc. Communications and Electronics Engineering, Faculty of Engineering, Mansoura University, 2019 to 2024">
 
-<table width="100%">
-  <tr>
-    <th align="left" width="64"></th>
-    <th align="left">Certificate</th>
-    <th align="left">Issued by</th>
-    <th align="right" width="110">Date</th>
-  </tr>
-  <tr><td align="center">🏅</td><td><b>Full-Stack Web Development</b></td><td>MaharaTech · ITI MOOCs</td><td align="right">Feb 2024</td></tr>
-  <tr><td align="center">🏅</td><td><b>React JS</b></td><td>MaharaTech · ITI MOOCs</td><td align="right">Oct 2024</td></tr>
-  <tr><td align="center">🏅</td><td><b>The Complete Node.js Course</b><br><sub>Express &amp; MongoDB</sub></td><td>MaharaTech · ITI MOOCs</td><td align="right">May 2023</td></tr>
-  <tr><td align="center">🏅</td><td><b>Introduction to MongoDB</b></td><td>MaharaTech · ITI MOOCs</td><td align="right">Apr 2023</td></tr>
-  <tr><td align="center">🏅</td><td><b>CSS3</b></td><td>Sololearn</td><td align="right">—</td></tr>
-</table>
+<img src="./certificates.svg" width="100%" alt="Certificates: React JS (Oct 2024), Full-Stack Web Development (Feb 2024), The Complete Node.js Course (May 2023), Introduction to MongoDB (Apr 2023) from MaharaTech ITI MOOCs, and CSS3 from Sololearn">
 
 <img src="./divider.svg" width="100%" alt="">
 
